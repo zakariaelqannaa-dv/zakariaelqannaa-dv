@@ -97,12 +97,12 @@ I enjoy working on real projects, improving my technical skills, and learning be
 ## 📊 GitHub Stats
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zakaria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zakariaelqannaa-dv&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+	<img width="49%" src="https://streak-stats.demolab.com?user=zakariaelqannaa-dv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaelqannaa-dv&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

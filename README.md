@@ -126,7 +126,7 @@ I enjoy working on real projects, improving my technical skills, and learning be
 ## 🐍 Contribution Snake
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/zakaria/zakaria/output/snake.svg" alt="Snake animation" />
+	<img src="https://raw.githubusercontent.com/zakariaelqannaa-dv/zakariaelqannaa-dv/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---

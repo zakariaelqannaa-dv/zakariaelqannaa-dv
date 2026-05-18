@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:22c55e&text=Zakaria%20Elqannaa&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web%20Developer%20%7C%20Tech%20Learner&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:22c55e&text=Zakaria%20&Elqannaa&fontAlign=50&fontAlignY=38&fontSize=48&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Web%20Developer%20%7C%20Tech%20Learner&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" />
 
 <p align="center">
 	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&center=true&vCenter=true&width=800&lines=Building+clean+and+modern+web+applications;Learning+React%2C+Laravel%2C+APIs+and+Databases;Focused+on+full-stack+development;Always+improving+one+project+at+a+time" alt="Typing SVG" />

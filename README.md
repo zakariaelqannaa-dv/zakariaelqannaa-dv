@@ -104,10 +104,6 @@ I enjoy working on real projects, improving my technical skills, and learning be
 </p>
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=zakariaelqannaa-dv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
 	<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariaelqannaa-dv&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
